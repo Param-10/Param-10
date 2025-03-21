@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bheleparamveer@gmail.com**
 
-- 📄 Know about my experiences [-Resume](https://drive.google.com/file/d/1lRJnAJH9azQahUc7QlmBcGYqbiUB5F-U/view?usp=sharing)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1lRJnAJH9azQahUc7QlmBcGYqbiUB5F-U/view?usp=sharing)
 
 - ⚡ Fun fact **i am funny sometimes**
 
