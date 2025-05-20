@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Paramveer Singh</h1>
 <h3>Computer Science Junior @ University of South Florida</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence, Data Science**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence, and Data Science**
 
 - 👯 I’m looking to collaborate on **New Projects!**
 
