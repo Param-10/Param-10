@@ -13,11 +13,6 @@
 
 </div>
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Param-10&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Param-10&layout=compact&theme=radical" alt="Top Languages" height="160" />
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
