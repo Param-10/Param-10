@@ -5,7 +5,7 @@
 </p>
 <div align="center">
 
-🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence, and Data Science**&nbsp;<br />
+🌱 I’m currently learning **Machine Learning**&nbsp;<br />
 👯 I’m looking to collaborate on **New Real World Projects!**&nbsp;<br />
 📫 How to reach me **bheleparamveer@gmail.com**&nbsp;<br />
 📄 Know about my experiences – [Resume](https://drive.google.com/file/d/1lRJnAJH9azQahUc7QlmBcGYqbiUB5F-U/view?usp=sharing)&nbsp;&nbsp;<br />
