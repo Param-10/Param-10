@@ -6,7 +6,7 @@
 <div align="center">
 
 🌱 I’m currently learning **Machine Learning**&nbsp;<br />
-👯 I’m looking to collaborate on **New Real World Projects!**&nbsp;<br />
+👯 I’m looking to collaborate on **New Projects and Startups!**&nbsp;<br />
 📫 How to reach me **bheleparamveer@gmail.com**&nbsp;<br />
 ⚡ Fun fact **i am funny sometimes :)**
 
