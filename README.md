@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paramveer Singh</h1>
+
 <h3 align="center">Computer Science @ University of South Florida</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,java,c,cpp" height="30" />
@@ -10,6 +11,7 @@
 📫 How to reach me **bheleparamveer@gmail.com**&nbsp;<br />
 ⚡ Fun fact **i am funny sometimes :)**
 
+![](https://komarev.com/ghpvc/?username=Param-10&color=green&style=flat-square)
 </div>
 
 
