@@ -20,7 +20,7 @@
 <div align="center">
 
 🌱 I’m currently learning **Machine Learning**&nbsp;<br />
-👯 I’m looking to collaborate on **New Projects and I'm also open to working with Startups!**&nbsp;<br />
+I’m looking to collaborate on **New Projects and I'm also open to work!**&nbsp;<br />
 📫 How to reach me - **bheleparamveer@gmail.com**&nbsp;<br />
 ⚡ In my spare time, I usually play FIFA
 
