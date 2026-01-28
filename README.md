@@ -19,7 +19,7 @@
 </p>
 <div align="center">
 
-🌱 I’m currently working on a few projects!*&nbsp;<br />
+🌱 I’m currently working on a few projects!**&nbsp;<br />
 I’m always open to collaborate**&nbsp;<br />
 📫 How to reach me - **bheleparamveer@gmail.com**&nbsp;<br />
 ⚡ In my spare time, I usually play FIFA
