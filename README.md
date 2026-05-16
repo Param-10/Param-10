@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paramveer Singh</h1>
 
-<h3 align="center">Computer Science @ University of South Florida</h3>
+<h3 align="center">Incoming Masters Student @ Columbia University</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
