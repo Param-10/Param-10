@@ -61,34 +61,6 @@ DevTools + security   → automation, code review systems, infrastructure intell
 
 ---
 
-### `signal`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<b>AI Systems</b>
-<br/>
-LLMs, agents, ML pipelines, model-backed products
-</td>
-<td align="center" width="33%">
-<b>Software Engineering</b>
-<br/>
-Full-stack apps, APIs, data-driven systems
-</td>
-<td align="center" width="33%">
-<b>Builder Mindset</b>
-<br/>
-Hackathons, research, startups, and shipping fast
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ### `activity`
 
 <div align="center">
