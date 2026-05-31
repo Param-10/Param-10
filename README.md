@@ -33,7 +33,7 @@ I care about:
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,cs,java,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,cs,java&theme=dark" />
 
 #### AI / ML
 
@@ -48,7 +48,6 @@ I care about:
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,docker,kubernetes,terraform,githubactions,cloudflare&theme=dark" />
 
 </div>
-
 ---
 
 ### `current_build_area`
