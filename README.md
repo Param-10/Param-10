@@ -1,11 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=190&section=header&text=Paramveer%20Singh%20Bhele&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20Engineer%20%7C%20AI%20Systems%20Builder&descSize=16&descAlignY=58" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=I+build+software+that+thinks%2C+scales%2C+and+ships.;Focused+on+SWE+%2B+ML+%2B+AI+Engineering.;Currently+building+AI+systems%2C+agents%2C+and+developer+tools." alt="Typing SVG" />
-
-</div>
-
 ---
 
 ### `whoami`
