@@ -10,13 +10,6 @@ Software engineer working across full-stack systems, machine learning, and appli
 Currently:
 > B.S. Computer Science @ University of South Florida
 > Incoming M.S. Artificial Intelligence @ Columbia University
-
-I care about:
-> clean architecture
-> useful AI products
-> reliable backend systems
-> ML that works outside notebooks
-> developer tools that save real engineering time
 ```
 
 ---
