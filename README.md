@@ -7,9 +7,8 @@
 ```txt
 Software engineer working across full-stack systems, machine learning, and applied AI.
 
-Currently:
+> M.S. Artificial Intelligence @ Columbia University
 > B.S. Computer Science @ University of South Florida
-> Incoming M.S. Artificial Intelligence @ Columbia University
 ```
 
 ---
