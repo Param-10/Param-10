@@ -68,7 +68,7 @@ DevTools + security   → automation, code review systems, infrastructure intell
 <a href="https://www.linkedin.com/in/paramveer-singh-bhele/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:bheleparamveer@gmail.com">
+<a href="mailto:paramveer.bhele@columbia.edu">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
